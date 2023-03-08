@@ -9,7 +9,7 @@ Atualizar uma base de dados que contém valores das cotações de Dólar, Euro e
 Pesquisando automaticamente as cotações atuais dos mesmos, e inserindo na tabela.</br> 
 E no final, exportar uma nova tabela, por sua vez, atualizada.</br> 
 
--------------------------------
+
 
 ## Bibliotecas utilizadas para tal projeto:
 
