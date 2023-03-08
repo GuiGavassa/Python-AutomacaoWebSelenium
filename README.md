@@ -1,3 +1,5 @@
+<div align="center">
+
 # Automação Web em Python com Selenium
 
 
@@ -11,5 +13,7 @@ E no final, exportar uma nova tabela, por sua vez, atualizada.</br>
 
 ## Bibliotecas utilizadas para tal projeto:
 
-- Selenium -> webdriver
-- Pandas
+ Selenium -> webdriver </br>
+ Pandas
+
+</div>
